@@ -54,9 +54,6 @@ Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, 
 
 🔍[Prepare code](https://colab.research.google.com/drive/1A-cyJgsHko05O3ATkH1WET-0LeVeihHH?usp=sharing)🔍
 
-## Video Report
-[![Watch the video report](https://img.youtube.com/vi/OBr7VX_gq58/0.jpg)](https://www.youtube.com/watch?v=OBr7VX_gq58)
-
 
 ## 👥 Người Đóng Góp
 - Nguyễn Dương Tiến Thông [(ThongNguyenDT)](https://github.com/ThongNguyenDT)
